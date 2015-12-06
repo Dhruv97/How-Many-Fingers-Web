@@ -1,0 +1,109 @@
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+   
+ 
+    
+}
+
+.header {
+	width:100%;
+	height:80px;
+	text-align: center;
+	background-color: #65C6BB;
+	margin-top:-25px;
+	padding-top: 10px;
+	
+}
+
+.header h1 {
+	color: white;
+	 font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	 
+}
+
+.supporting {
+	height:320px;
+	padding-top: 20px;
+	background-color: #86E2D5;
+}
+
+.supporting h2 {
+	text-align: center;
+	color: white;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	 padding-bottom:20px;
+}
+#userAnswer {
+	width: 300px;
+	height: 50px;
+	border-style: solid;
+  border-width: 2px;
+ border-color: #333333;
+  padding: 5px 5px 5px 5px;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+font-size: 30px;
+text-align: center;
+  display:block;
+  margin-bottom:30px;
+}
+
+#button {
+	
+	border-style: solid;
+	border-color: #65C6BB;
+	height: 60px;
+	width:150px;
+	background-color: #36D7B7;
+	text-align:center;
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	
+	
+}
+#button h2 {
+	color:white;
+	text-align: center;
+	margin-top: 10px;
+	
+	
+}
+	
+a:hover {
+	text-decoration: none;
+}
+
+#button:hover {
+	background: #57ebc5;
+	
+	transition: background .5s;
+	
+}
+.img-responsive  {
+	display: block;
+    margin: 0 auto 0px;
+    border-radius:0;
+   
+}
+
+.instructions {
+	text-align:center;
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.colorspace {
+	margin-top:70px;
+	height:150px;
+	background-color:#86E2D5;
+}
+
+.footer {
+	text-align: center;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: white;
+	height: 45px;
+	background-color: #65C6BB;
+	padding-top:20px;
+}
